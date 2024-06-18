@@ -1,6 +1,3 @@
-basi do código 
-
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -73,7 +70,6 @@ basi do código
             <h2>Exemplo de Comandos</h2>
             <pre>
                 <code>
-!perfil @usuário - Mostra o perfil do usuário
 !saldo - Mostra o saldo atual
 !comprar item - Compra um item do mercado
 !vender item - Vende um item no mercado
@@ -83,7 +79,7 @@ basi do código
         </section>
         <section>
             <h2>Fotos do Bot</h2>
-            <img src="imagem1.jpg" alt="Imagem 1">
+            <img src="" alt="Imagem 1">
             <p>Legenda ou descrição da imagem.</p>
             
             <img src="imagem2.jpg" alt="Imagem 2">
